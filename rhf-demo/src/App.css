@@ -28,6 +28,7 @@ input[type="date"] {
 .error {
   color: red;
   font-size: 12px;
+  font-weight: bold;
   text-align: left;
 }
 
